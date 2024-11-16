@@ -1,1 +1,14 @@
-
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AirDesktop</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Sat, 16 Nov 2024 16:41:21 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/adidoes/AirDesktop-releases/releases/download/beta/AirDesktop-0.9.zip" length="2455012" type="application/octet-stream" sparkle:edSignature="nJOKKgBP7Oz921KtnEattjdJJDqBPsQpM1ja3cD2Br+OTrBN0dwk7sq+dwxpAQbKLaXqBi8xjiTrjCOkqz1lAQ=="/>
+        </item>
+    </channel>
+</rss>
