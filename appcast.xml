@@ -3,12 +3,12 @@
     <channel>
         <title>AirDesktop</title>
         <item>
-            <title>1.2.3</title>
-            <pubDate>Tue, 24 Dec 2024 18:04:26 +0200</pubDate>
-            <sparkle:version>1.2.3</sparkle:version>
-            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <title>1.2.5</title>
+            <pubDate>Tue, 11 Feb 2025 18:04:55 +0100</pubDate>
+            <sparkle:version>1.2.5</sparkle:version>
+            <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/adidoes/AirDesktop-releases/releases/download/v1.2.3-beta/AirDesktop.zip" length="2582723" type="application/octet-stream" sparkle:edSignature="97FfqMoGtuiRCuXgvHX9Eai5uVRTYrxHW2FezakMB+NgZvs3Vf0UcbsOn/wSBsnu9cbY5sXmgyL5cAOiCkDQCw=="/>
+            <enclosure url="https://github.com/adidoes/AirDesktop-releases/releases/download/v1.2.5-beta/AirDesktop.zip" length="3493688" type="application/octet-stream" sparkle:edSignature="1tMapGsGFxSTqu+P7Qm0HbcaZWtAoPElxEoZVM5Wja+lsbu9DwTEAOtH7gG2MFSC1oXn/QwuGpSdLlDfMghECg=="/>
         </item>
     </channel>
 </rss>
